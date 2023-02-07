@@ -1,1 +1,1 @@
-My first readme now updated.
+My first readme is finally updated and it will work.
